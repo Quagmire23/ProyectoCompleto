@@ -1,0 +1,29 @@
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\bin\Debug\ProyectoSimulacionOriginal.exe.config
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\bin\Debug\ProyectoSimulacionOriginal.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\bin\Debug\ProyectoSimulacionOriginal.pdb
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Form1.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Properties.Resources.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.exe
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.pdb
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Pi.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.PruebaPromedios.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Tinas.resources
+C:\Users\DELL\Desktop\Aracely\4 Semestre\Simulacion\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Volados.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Form1.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Pdistancia.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Pi.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Properties.Resources.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.PruebaPromedios.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Tinas.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.Volados.resources
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.csproj.GenerateResource.cache
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.exe
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\obj\Debug\ProyectoSimulacionOriginal.pdb
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\bin\Debug\ProyectoSimulacionOriginal.exe.config
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\bin\Debug\ProyectoSimulacionOriginal.exe
+C:\Users\daniel\Desktop\ProyectoEquipo\Junto-main\ProyectoSimulacionOriginal\ProyectoSimulacionOriginal\bin\Debug\ProyectoSimulacionOriginal.pdb
